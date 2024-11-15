@@ -1,0 +1,6 @@
+
+node_modules
+
+*.csv
+*.zip
+.DS_Store
